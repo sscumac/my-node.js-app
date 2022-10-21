@@ -4,7 +4,9 @@
 Create DB and start Backend:
  
 create_db.js
+
 seed.js
+
 index.js
 
 Run Frondend:
