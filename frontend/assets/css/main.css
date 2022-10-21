@@ -1,0 +1,11 @@
+@import "./_font.css";
+
+html, body {
+  font-family: Montserrat, sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: Montserrat, sans-serif;
+  text-transform: uppercase;
+}
